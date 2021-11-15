@@ -15,6 +15,8 @@
 .separatorRight{right:300px!important}
 #sectionMiddle{right:301px!important}
 #game{top:0px!important;}
+#toggleUpgrades{right:0px!important; z-index: 999!important; position: fixed!important; bottom:0px!important; background-color: #090909!important}
+#store{padding-bottom:12px!important}
 
 /* reset CSS */
 html, body, div, span, applet, object, iframe,
