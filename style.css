@@ -14,8 +14,8 @@
 .separatorRight{right:300px!important}
 #sectionMiddle{right:301px!important}
 #game{top:0px!important;}
-#toggleUpgrades{z-index: 999!important; position: absolute!important; bottom:0px!important; background-color: transparent !important; height:auto}
-#store{padding-bottom:76px!important;}
+#toggleUpgrades{z-index: 999!important; position: absolute!important; bottom:-6px!important; background-color: transparent !important; height:auto}
+#store{padding-bottom:130px!important;}
 #upgrades:empty{display: none !important}
 #sectionRight{height:107.3%!important}
 #sectionLeft{padding-right:40px;}
