@@ -21,7 +21,9 @@
 #backgroundLeftCanvas{height:825px !important; left:0px !important}
 #sectionMiddle, .separatorLeft{margin-left:10px !important}
 #sectionLeft{margin-left:3px}
-#sectionLeftExtra>.productButtons{right:-8px}
+#sectionLeft{padding-right:20px;}
+.separatorLeft{z-index: 99999}
+#sectionLeftExtra>.productButtons{right:8px!important}
 
 /* reset CSS */
 html, body, div, span, applet, object, iframe,
