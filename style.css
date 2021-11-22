@@ -18,12 +18,12 @@
 #store{padding-bottom:76px!important;}
 #upgrades:empty{display: none !important}
 #sectionRight{height:107.3%!important}
-#backgroundLeftCanvas{height:825px !important; left:0px !important}
-#sectionMiddle, .separatorLeft{margin-left:10px !important}
-#sectionLeft{margin-left:3px}
-#sectionLeft{padding-right:20px;}
-.separatorLeft{z-index: 99999}
+#sectionLeft{padding-right:40px;}
+#backgroundLeftCanvas{height:810px !important; left:0px !important; width:445px}
+#sectionMiddle, .separatorLeft{margin-left:26px !important}
+.separatorLeft{z-index: 9999}
 #sectionLeftExtra>.productButtons{right:8px!important}
+#cookieAnchor{top:323px; left:224px}
 
 /* reset CSS */
 html, body, div, span, applet, object, iframe,
