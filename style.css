@@ -19,12 +19,12 @@
 #upgrades:empty{display: none !important}
 #sectionRight{height:107.3%!important}
 #sectionLeft{padding-right:40px;}
-#backgroundLeftCanvas{height:810px !important; left:0px !important; width:451px}
+#backgroundLeftCanvas{height:810px !important; left:0px !important; width:451px!important}
 #sectionMiddle, .separatorLeft{margin-left:26px !important}
-.separatorLeft{z-index: 9999}
+.separatorLeft{z-index: 9999!important}
 #sectionLeftExtra>.productButtons{right:8px!important}
-#cookieAnchor{top:323px; left:224px}
-#cookies{z-index: 5}
+#cookieAnchor{top:323px!important; left:224px!important}
+#cookies{z-index: 5!important}
 
 
 /* reset CSS */
