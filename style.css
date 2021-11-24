@@ -27,6 +27,7 @@
 #cookies{z-index: 5!important}
 .crateBox{margin-right:14px !important}
 [onclick="Game.UpgradesById[361].click(event);"]{display:none !important}
+[onclick="Game.UpgradesById[185].click(event);"]{display:none !important}
 
 
 /* reset CSS */
