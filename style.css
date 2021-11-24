@@ -25,6 +25,8 @@
 #sectionLeftExtra>.productButtons{right:8px!important}
 #cookieAnchor{top:323px!important; left:224px!important}
 #cookies{z-index: 5!important}
+.crateBox{margin-right:14px !important}
+[onclick="Game.UpgradesById[361].click(event);"]{display:none !important}
 
 
 /* reset CSS */
