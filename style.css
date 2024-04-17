@@ -19,11 +19,9 @@
 #upgrades:empty{display: none !important}
 #sectionRight{height:107.3%!important}
 #sectionLeft{padding-right:40px;}
-#backgroundLeftCanvas{height:810px !important; left:0px !important; width:451px!important}
 #sectionMiddle, .separatorLeft{margin-left:26px !important}
 .separatorLeft{z-index: 9999!important}
 #sectionLeftExtra>.productButtons{right:8px!important}
-#cookieAnchor{top:323px!important; left:224px!important}
 #cookies{z-index: 5!important}
 .crateBox{margin-right:14px !important}
 [onclick="Game.UpgradesById[361].click(event);"]{display:none !important}
@@ -1060,8 +1058,8 @@ q:after
 
 #cookieAnchor
 {
-	position:absolute;
-	left:50%;
+	position:relative;
+	left:55%;
 	top:40%;
 }
 #bigCookie
